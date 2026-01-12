@@ -1,5 +1,12 @@
 # Changelog
 
+## [25.105.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.105.0...v25.105.1) (2026-01-12)
+
+
+### Bug Fixes
+
+* **ignore:** bump the minor-patch group with 2 updates ([#11267](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11267)) ([5144775](https://github.com/Koenkk/zigbee-herdsman-converters/commit/51447754215f08ae0eccbe3dc3165707b6ac95c6))
+
 ## [25.105.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.104.0...v25.105.0) (2026-01-11)
 
 
